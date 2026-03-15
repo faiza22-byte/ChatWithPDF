@@ -1,6 +1,6 @@
-streamlit
-PyPDF2
-langchain>=0.1.0
-chromadb
+streamlit>=1.24.0
+PyPDF2>=3.0.0
+langchain>=0.1.153
+chromadb>=0.3.26
 langchain-community
 google-generativeai

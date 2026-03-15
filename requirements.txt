@@ -1,6 +1,6 @@
 streamlit
 PyPDF2
-langchain
+langchain>=0.1.0
 chromadb
 langchain-community
 google-generativeai
